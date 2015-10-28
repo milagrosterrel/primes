@@ -1,0 +1,359 @@
+*{
+    font-family: "Open sans";
+}
+header nav{
+    display: block;
+    float: right;
+    margin: 20px;
+    padding: 10px;
+}
+header nav a{
+	text-decoration: none; 
+	color: white;
+    padding: 10px;
+    margin: 30px;
+    position:relative;
+}
+
+.hero-image{
+	background-image: url(../img/background/hero.jpg);
+	background-size: cover;
+	height: 650px;
+}
+.opacidad-1{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 650px;
+    position: absolute;
+}
+.true a{
+    color:white; 
+}
+.texto{
+    position: relative;
+    top: 200px;
+}
+.texto h1.h1{
+   display: inline-table;
+   padding: 10px;
+   position:relative; 
+}
+.texto p{
+    padding: 10px;width: 63%;
+    margin: 0 auto;
+    position: relative;
+}
+.botones{
+    position: relative;
+    top: 250px;
+}
+.botones a{
+    text-decoration: none;
+    color:white;
+    padding: 20px;
+    background-color: rgba(0,1,0,0.2);
+}
+.container{
+    text-align: center;
+    padding: 20px 20px;
+}
+.box i{
+    padding: 10px;
+    font-size: 45px;
+    color: #0dc0c0;
+}
+.box{
+    padding: 10px;
+    color: #888
+}
+.box-1 i{
+    padding: 10px;
+    font-size: 45px;
+    color: #0dc0c0;
+}
+.col-4{
+        padding: 1px 50px;
+}
+.imga{
+    width: 100%;
+}
+.img{
+    width: 80%;
+    margin: 0 auto;
+}
+.con-r i{
+    padding: 10px;
+    font-size: 45px;
+    color: #0dc0c0;
+}
+h3{
+    padding: 10px;
+    color: #888;
+    width: 30%;
+    text-align: right;
+    display: inline;
+}
+.con-r{
+        height: 600px
+}
+.box-cont{
+    padding: 70px;
+    height: 550px;
+    width: 100%;
+
+}
+.con-r .box-cont p{
+
+    width: 80%;
+    padding: 10px;
+    color: #888;
+    text-align: left;
+    margin: 0 auto;
+}
+.background-ph{
+    background-color: #F5F1F1;
+    height: 1500px;
+    padding: 55px 40px;
+}
+.tittle{
+    text-align: center;
+    padding: 20px;
+}
+.background-ph p{
+    text-align: center;
+    color: gray;
+}
+.bar nav a{
+    color: black;
+}
+.background-ph nav{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+.background-ph a{
+  color: black;
+  text-decoration: none;
+  padding: 15px;
+  margin: 20px;
+  background-color: white;
+}
+.content{
+    background-color: white;
+    padding: 2% 7%;
+}
+.content img{
+    width: 100%;
+}
+.foli .col-6{
+    padding-bottom: 30px;
+}
+.folio .col-6{
+    padding-bottom: 30px;
+}
+.folio-2 .col-6{
+    padding-bottom: 30px;
+}
+.load{
+    position: relative;
+    top: 5%;
+}
+.load a{
+    color: gray;
+    padding: 10px 30px;
+}
+.load a{
+    background-color: rgba(42, 42, 40, 1);
+}
+.fondo{
+    background-image: url("../img/background/city.jpg");
+    height: 400px;
+    background-size: cover;
+    position: relative;
+}
+.opacidad{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.fondo h1{
+    position: relative;
+    top: 120px;
+    padding: 1px 246px;
+}
+.fondo  a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    position: relative;
+    top: 200px;
+}
+.fondo a{
+    background-color: rgba(0,0,0,0.3);
+}
+.fondo-bag{
+    background-color: rgba(24, 24, 24, 0.1);
+    height: 800px;
+}
+.fondo-bag h1{
+    color: #403F3F;
+    text-align: center;
+    padding: 20px;
+}
+.fondo-bag p{
+    color: gray;
+    text-align: center;
+    padding: 15px;
+}
+.cont{
+    background-color: white;
+    padding: 20px 20px 80px 20px;
+    height: 100%;
+}
+.standar{
+    background-color: #403F3F;
+    height: 100px;
+}
+.standar h1 {
+    color: white;
+    position: relative;
+    top: 15px;
+}
+.standar-1{
+    background-color: rgba(24, 24, 24, 0.1);
+    height: 100px;
+}
+.standar-1 h1{
+    color: gray;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+}
+ul{
+    list-style: none;
+    color: gray;
+    text-align: center;
+    padding: 0px 15px;
+}
+ul li{
+    padding: 20px;
+    border-bottom: 1px solid #D9D6D6;
+}
+.cont a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 30px;
+}
+.cont .btn{
+    background-color: gray;
+    position: relative;
+    top: 30px;
+}
+.cont .premium {
+    background-color: #44F4F6;
+    height: 100px;
+}
+.cont .premium h1{
+    color: white;
+    position: relative;
+    top: 15px;
+}
+.puk-up{
+    padding: 20px 3px;
+}
+.customer{
+    text-align:  center;
+}
+.customer img{
+    border-radius: 100%;
+    display: inline-block;
+    width: 10%;
+}
+.customer h1{
+    color: gray;
+    padding: 60px 60px;
+}
+.customer p{
+    text-align: center;
+    color: gray;
+    padding: 2px 190px 50px;
+}
+.customer p .p1{
+    text-align: center;
+}
+.contacto{
+    background-image: url("../img/background/contactus.jpg");
+    height: 530px;
+    background-size: cover;
+    background-position: center;
+}
+.opasiti{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 530px;
+    position: absolute;
+}
+form .textinput{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border:none;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+form .text{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border:none;
+    padding: 2% 2% 10%;
+    margin-bottom: 2%;
+}
+
+.contacto h1{
+    text-align: center;
+    color: white;
+    position: relative;
+    padding: 10px;
+}
+.contacto p{
+    color: white;
+    position: relative;
+}
+.contacto a{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    padding: 6px 40px;
+}
+.contacto a{
+    background-color: #0FDEF7;
+}
+.contacto h2{
+    position: relative;
+    color: white;
+    padding: 30px 1px;
+}
+.texto-contact{
+    text-align: left;
+    padding: 5% 10%;
+    position: relative;
+}
+
+/*footer*/
+footer p{
+    padding: 0 20%;
+}
+footer i{
+    font-size: 2.5em;
+    color:  #585858;
+    padding:0.5%;
+}
+footer h2{
+    font-size: 1.8em;
+    font-weight: normal;
+}
+.honores{
+    padding: 2.5%;
+    background-color:gray;
